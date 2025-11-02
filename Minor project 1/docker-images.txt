@@ -1,0 +1,2 @@
+﻿docker pull abhi2003/minorimg:latest
+
